@@ -1,7 +1,7 @@
 // by ShotaIshiwatari is licensed under the Creative Commons - Public Domain Dedication license.
 // Modified by IchiroKANO2; Changed all of sample commands to aggressive motions.
 
-#include 
+#include <Servo.h>
 
 #define SHIFT 7
 #define R 0          // Red LED
